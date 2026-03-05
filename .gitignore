@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+
+# Archivos generados y scripts de utilidad
+*.gif
+organizar_archivos.py
